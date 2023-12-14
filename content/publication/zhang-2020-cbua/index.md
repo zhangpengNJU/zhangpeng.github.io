@@ -15,4 +15,8 @@ publishDate: '2023-12-14T03:35:03.046930Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Software Engineering*'
+
+
+url_pdf: 'https://ieeexplore.ieee.org/document/9144443'
+url_code: 'https://github.com/zhangpengNJU/CBUA'
 ---
