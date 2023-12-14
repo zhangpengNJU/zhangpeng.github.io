@@ -63,10 +63,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        
       # Contact (add or remove contact options as necessary)
-      email: 1477140741@qq.com
-      email: dz1833034@smail.nju.edu.cn
+      email: 1477140741@qq.com / dz1833034@smail.nju.edu.cn
+      
     
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
