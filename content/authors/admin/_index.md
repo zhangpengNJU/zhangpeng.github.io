@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: PhD
-      supervisor: Prof. Yuming Zhou
+      supervisor: Prof. [Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/index.htm)
       institution: Department of Computer Science and Technology, Nanjing University
       year: 2022
     - course: BSc
@@ -70,6 +70,6 @@ education:
 highlight_name: true
 ---
 
-Peng Zhang is a Research Associate (Postdoc) of SnT at University of Luxembourg supervised by Mike Papadakis. His research interests include software testing and software engineering for AI. His advisor is professor Yuming Zhou. He have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022.
+Peng Zhang is a Research Associate (Postdoc) of SnT at University of Luxembourg supervised by [Mike Papadakis](https://mpapad.github.io/). His research interests include software testing and software engineering for AI. His advisor is professor Yuming Zhou. He have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022.
 
 {style="text-align: justify;"}
