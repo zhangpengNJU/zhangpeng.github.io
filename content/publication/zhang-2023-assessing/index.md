@@ -18,4 +18,7 @@ publishDate: '2023-12-14T03:35:03.062110Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Software Engineering and Methodology*'
+
+url_pdf: 'https://dl.acm.org/doi/10.1145/3635713'
+url_code: 'https://github.com/zhangpengNJU/ASSENT'
 ---
