@@ -15,4 +15,9 @@ publishDate: '2023-12-14T03:35:03.055743Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Software Engineering and Methodology (TOSEM)*'
+
+
+url_pdf: 'https://dl.acm.org/doi/10.1145/3522578'
+url_code: 'https://github.com/zhangpengNJU/MutantReductionEvaluation'
+
 ---
