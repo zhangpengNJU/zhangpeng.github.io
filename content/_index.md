@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
+cms_exclude: false
 date: 2022-10-24
 type: landing
 
