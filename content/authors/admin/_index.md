@@ -70,6 +70,6 @@ education:
 highlight_name: true
 ---
 
-Peng Zhang is a Research Associate (Postdoc) of SnT at University of Luxembourg supervised by [Mike Papadakis](https://mpapad.github.io/). His research interests include software testing and software engineering for AI. His advisor is professor [Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/index.htm). He have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022.
+Peng Zhang is a Research Associate (Postdoc) of SnT at University of Luxembourg supervised by [Mike Papadakis](https://mpapad.github.io/) and [Fabrizio Pastore](https://www.fabriziopastore.com). His research interests include software testing and software engineering for AI. His advisor is professor [Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/index.htm). He have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University.
 
 {style="text-align: justify;"}
